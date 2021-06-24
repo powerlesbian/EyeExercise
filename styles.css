@@ -31,11 +31,17 @@ body {
     transform: translate(-50%, -50%);
     border-radius: 50%;
   }
+
 .homebutton {
-  color: #46b8da;
   padding: 10px 20px;
   border-radius: 4px;
   border-color: #46b8da;
+  background-color: #4CAF50; /* Green */
+  color: white;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
 }
 
 #homebutton {
@@ -43,3 +49,4 @@ body {
   bottom: -3px;
   right: 10px;
 }
+
